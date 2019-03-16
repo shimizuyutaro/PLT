@@ -1,0 +1,3 @@
+\documentclass{jsarticle}
+\begin{document}
+テストで文章を書きます。
