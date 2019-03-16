@@ -1,3 +1,5 @@
 \documentclass{jsarticle}
 \begin{document}
 テストで文章を書きます。
+このセクションには序章を書きます。
+序章は研究内容を経緯とともに簡潔に書きます。
